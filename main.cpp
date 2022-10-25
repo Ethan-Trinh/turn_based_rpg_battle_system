@@ -4,5 +4,5 @@
 int main() {
     Entity entity_1;
 
-    std::cout << entity_1.get_ATK();
+    std::cout << entity_1.get_ATK() << "\n";
 }
